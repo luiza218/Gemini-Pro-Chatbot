@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai
  
-genai.configure(api_key='AIzaSyBLD5xONBnM-wmjnNKgZXhGQsmIIswG7Zo')
+genai.configure(api_key='your api key here!')
  
 model = genai.GenerativeModel('gemini-pro')
 
@@ -13,7 +13,10 @@ st.sidebar.markdown('''
 ### About this project
 This **Streamlit App** is a chatbot powered by Gemini-Pro made by Luiza Carneiro on 02/16/24.
                     
-The source code can be found at https://github.com/luiza218
+The source code can be found at https://github.com/luiza218/Gemini-Pro-Chatbot
+
+Right now, developers have free access to Gemini Pro and Gemini Pro Vision through Google AI Studio, with up to 60 requests per minute, making it suitable for most app development needs at no cost until general availability early 2024.
+For more info check https://blog.google/technology/ai/gemini-api-developers-cloud/ !!
 ''')
 st.sidebar.markdown('''                  
 ### About the programmer
