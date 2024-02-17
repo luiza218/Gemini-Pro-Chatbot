@@ -6,8 +6,8 @@
 
 Before getting to work on this project, you will need to install the given libraries:
 
-powershell:
 pip install streamlit
+
 pip install google.generativeai
 
 You also will have to generate an API KEY on https://aistudio.google.com/ and replace it on the code.
