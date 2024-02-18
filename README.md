@@ -4,6 +4,7 @@
 
 ![image](https://github.com/luiza218/Gemini-Pro-Chatbot/assets/118932975/87c93b8b-05d5-4df3-80f3-58057af138d5)
 
+![Imagem do WhatsApp de 2024-02-18 à(s) 13 19 45_adebb79f](https://github.com/luiza218/Gemini-Pro-Chatbot/assets/118932975/5eee8c26-809c-4ca2-a585-dc683b33a8d7)
 
 ## 💻 Getting to work!
 
