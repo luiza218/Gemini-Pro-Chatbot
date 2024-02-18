@@ -4,7 +4,7 @@
 
 ![image](https://github.com/luiza218/Gemini-Pro-Chatbot/assets/118932975/87c93b8b-05d5-4df3-80f3-58057af138d5)
 
-![image](https://github.com/luiza218/Gemini-Pro-Chatbot/assets/118932975/0c86ee46-5196-48e6-af5f-1ad6753bfd6c)
+![image](https://github.com/luiza218/Gemini-Pro-Chatbot/assets/118932975/0e934742-c4cc-4b68-81de-16af5303034d)
 
 ## 💻 Getting to work!
 
