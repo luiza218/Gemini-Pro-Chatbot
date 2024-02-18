@@ -1,6 +1,6 @@
 # GEMINI PRO CHATBOT WITH STREAMLIT 📊
 
-> This project entails an advanced Chatbot utilizing the Gemini Pro artificial intelligence model. Users can interact with the AI, asking questions and receiving responses directly through an application developed with Streamlit on Python.
+> This project entails an advanced Chatbot utilizing the Gemini Pro artificial intelligence model. Users can interact with the AI, asking questions and receiving responses directly through an application developed with Streamlit on Python. It also works on mobile.
 
 ![image](https://github.com/luiza218/Gemini-Pro-Chatbot/assets/118932975/87c93b8b-05d5-4df3-80f3-58057af138d5)
 
