@@ -14,7 +14,10 @@ pip install google.generativeai
 ```
 
 You also will have to generate an API KEY on https://aistudio.google.com/ and replace it on the code.
+
+
 ![image](https://github.com/luiza218/Gemini-Pro-Chatbot/assets/118932975/d45c4c5b-ab4b-4411-a956-3f5cfa50b8d3)
+
 
 ## Info
 
